@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ngdbc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/devtools/EZ-github/ez_ver2.2/ez/etc/ngdbc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
