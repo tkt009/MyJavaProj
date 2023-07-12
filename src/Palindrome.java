@@ -21,6 +21,7 @@ public class Palindrome {
     m.put("k1","v1");
     m.put("k2","v2");
     m.put("k3","v3");
+    m.put("k4","v4");
     System.out.println("Map is: "+m);
 
     DateTimeFormatter FORMATTER = DateTimeFormatter.ofPattern(
